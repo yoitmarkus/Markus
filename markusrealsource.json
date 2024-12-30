@@ -48,6 +48,30 @@
             ],
             "uploadDate": "2024-12-30T13:17:00.000Z",
             "fileSize": "1.1 GB"
-       }
-    ]
+        },
+        {
+            "title": "Devil May Cry 4 Special Edition [Pré-instalado]",
+            "uris": [
+                "https://pixeldrain.com/u/VYVPFgsd"
+            ],
+            "uploadDate": "2024-12-30T14:17:00.000Z",
+            "fileSize": "26.4 GB"
+        },
+        {
+            "title": "DMC Devil May Cry [Pré-instalado]",
+            "uris": [
+                "https://pixeldrain.com/u/7VteiUHM"
+            ],
+            "uploadDate": "2024-12-30T14:18:00.000Z",
+            "fileSize": "9.97 GB"
+        },
+        {
+            "title": "Pro Evolution Soccer 2018 [Pré-instalado]",
+            "uris": [
+                "https://buzzheavier.com/blp63v9ysdxn"
+            ],
+            "uploadDate": "2024-12-30T14:22:00.000Z",
+            "fileSize": "17.2 GB"
+        }
+    ] 
 }
